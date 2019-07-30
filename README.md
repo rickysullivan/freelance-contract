@@ -1,3 +1,4 @@
+
 [LOGO]
 
 [ADDRESS]
@@ -12,7 +13,7 @@
 
 We will always do our best to fulfill your needs and meet your goals, but sometimes it is best to have a few simple things written down so that we both know what is what, who should do what and what happens if stuff goes wrong. In this contract you won't find complicated legal terms or large passages of unreadable text. We have no desire to trick you into signing something that you might later regret. We do want what's best for the safety of both parties, now and in the future.
 
-#### In short:
+### In short:
 
 You ([CLIENT COMPANY]) are hiring us ([MY COMPANY]) to [PROJECT NAME OR DESCRIPTION] at the hourly rate of [HOURLY RATE] per hour. Of course it's a little more complicated, but we'll get to that.
 
@@ -30,14 +31,14 @@ Below is a list of items we’ll need up front from you. Every project is slight
 
 * [LIST OF NEEDS] *includes credentials, access to any necessary services or assets, etc*
 
-#### Browser Compatibility
+#### Browser compatibility
 We have agreed to test our code in the latest releases of Firefox, Safari, and Chrome. Additionally we test on mobile Safari and mobile Chrome (iOS devices, Android devices). If you need browsers other than those listed tested, please provide us with a list of the browsers and devices. Testing additional browsers requires more testing time as well as potentially needing to code for that specific browser.
 We code everything with progressive enhancement in mind. This means that modern browsers may show slight differences to older browsers (such as text and box shadows, rounded corners, etc) based on what a browser is able to render. Any changes will not affect the user experience.
 
 #### Testing
 We write tests before we write our code, which allows us to make sure that all required functionality is not only present, but works no matter how often we change things around. If your employees or other contractors will be working on the project along side us, we require that they also write tests for all code they produce to make sure we are all on the same page and not stepping on each others toes.
 
-#### Version Control
+#### Version control
 Git allows us to keep track of all changes that happen in your application. This way, if a bug is introduced we can quickly find where it was added and roll back to the previous bug-free state while we fix things up! We require code be under version control so we can work on your application with your employees or other contractors without worrying that we may be undoing or overwriting each others changes.
 
 #### Timeline
@@ -56,7 +57,7 @@ As we work after hours, not all communication will be made during regular busine
 
 As we value your time as well as our own, we ask that all meetings be scheduled a minimum of two business days in advance and be accompanied by an agenda so that we can be fully prepared. If we are unable to attend a meeting at your suggested time, we will be happy to provide two times that will work for us. Meetings must start and end on or before the time allotted and will be charged for whether you attend or not.
 
-####Project Management
+#### Project management
 If you do not have a preferred project management tool, we will provide you with a login for ours where you will be able to see the status of the project down to the specific task, so you will always be kept up to date. We’ll be relying on you to participate by answering our questions, stating your approval, requesting changes, and verifying completeness through the tool as well. We ask for a one business day turnaround time on responses so we can keep things moving along at a pace that will allow us to hit the milestones we decided on together. 
 To keep the project organized and the management of it easier, we prefer not to communicate any of the information stated above over ordinary email.
 
@@ -81,7 +82,7 @@ We love to show off our work and share what we have learned with other people, s
 
 We are sure you understand how important it is as a small business that you pay the invoices that we send you promptly.  As we're also sure you'll want to stay friends, you agree to stick tightly to the following payment schedule.
 
-#### Payment Schedule
+#### Payment schedule
 
 We bill every other week on Friday and all invoices are payable upon receipt.
 
